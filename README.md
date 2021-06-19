@@ -11,5 +11,5 @@ This repo will demonstrate on how accepting a URL query in php can redirect user
 6. click on the ```PHP test page``` link
 7. Add ```?url=bad.html``` to the end the url inside the browser search bar     
    NOTE: For the purpose of simplicity, ```bad.html``` is represented as the attacker's site
-9. You should see ```Welcome to badness```
+9. You should see ```Welcome to badness!```
 
