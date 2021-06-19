@@ -3,8 +3,9 @@ This repo will demonstrate on how accepting a URL query in php can redirect user
 
 $ How to:
 1. ```git clone https://github.com/p-cap/cwe601-REDIRECT.git```
-2. ```chmod 700 build-docker```
-3. ```./build-docker```
-4. connect to ```localhost:8080``` via browser
-5. click on the ```php test page``` link
-6. 
+2. ```cd cwe601-REDIRECT```
+3. ```chmod 700 build-docker```
+4. ```./build-docker```
+5. connect to ```localhost:8080``` via browser
+6. click on the ```php test page``` link
+7. 
