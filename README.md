@@ -6,6 +6,7 @@ $ How to:
 2. ```cd cwe601-REDIRECT```
 3. ```chmod 700 build-docker```
 4. ```./build-docker```
+   NOTE: If you are receiving permission denied, use ```sudo ./build-docker```
 5. connect to ```localhost:8080``` via browser
 6. click on the ```php test page``` link
 7. 
